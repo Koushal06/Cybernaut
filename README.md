@@ -97,5 +97,3 @@ Feel free to open issues or submit pull requests for improvements.
 ---
 
 Made with ❤️ by Koushal V
-
-```
